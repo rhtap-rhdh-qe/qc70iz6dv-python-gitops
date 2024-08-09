@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qc70iz6dv-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qc70iz6dv-python-gitops
